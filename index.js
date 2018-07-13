@@ -7,3 +7,5 @@ function destructivelyAppendDriver(drivers){
 }
 
 drivers.push('Ralph')
+
+drivers
