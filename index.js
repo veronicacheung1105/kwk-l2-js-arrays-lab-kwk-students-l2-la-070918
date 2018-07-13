@@ -1,7 +1,6 @@
 // Write your solution here!
 const drivers = ["Milo", "Otis", "Garfield"]
 
-function destructivelyAppendDriver(drivers){
+//function destructivelyAppendDriver(drivers){
   drivers.unshift('Ralph')
   return names
-}
